@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	channel6()
+	json01()
 }
